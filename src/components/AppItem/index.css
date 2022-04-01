@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.app-img-cls {
+  height: 65px;
+  width: 65px;
+}
+.app-heading {
+  font-size: 14px;
+}
+.app-item-card {
+  background-color: white;
+  border-radius: 6px;
+  height: 150px;
+  width: 130px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 6px;
+}
